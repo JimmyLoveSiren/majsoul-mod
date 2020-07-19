@@ -9,7 +9,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/board/white-black/$3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/board/white-black/$3"
 		},
 		{
 			"enable": false,
@@ -20,7 +20,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/board/white/$3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/board/white/$3"
 		},
 		{
 			"enable": true,
@@ -31,7 +31,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/res/005.png"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/res/005.png"
 		},
 		{
 			"enable": true,
@@ -42,7 +42,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/rose/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/rose/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -53,7 +53,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/black2/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/black2/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -64,7 +64,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/blue/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/blue/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -75,7 +75,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/cyan/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/cyan/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -86,7 +86,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/dark/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/dark/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -97,7 +97,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/green/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/green/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -108,7 +108,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/orange/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/orange/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -119,7 +119,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/pink/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/pink/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -130,7 +130,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/purple/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/purple/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -141,7 +141,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/red/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/red/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -152,7 +152,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/yellow/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/yellow/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -163,7 +163,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/black/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/black/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -174,7 +174,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/saki2/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/saki2/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -185,7 +185,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/dir/sakura/$3/$5$6"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/dir/sakura/$3/$5$6"
 		},
 		{
 			"enable": false,
@@ -196,7 +196,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/qingshuigulonghua/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/qingshuigulonghua/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -207,7 +207,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/songshixuan/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/songshixuan/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -218,7 +218,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/songshiyou/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/songshiyou/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -229,7 +229,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/fulumeisuizi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/fulumeisuizi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -240,7 +240,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/gongyongxiao/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/gongyongxiao/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -251,7 +251,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/longmenyuantouhua/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/longmenyuantouhua/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -262,7 +262,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/mengnaizhenfan/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/mengnaizhenfan/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -273,7 +273,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/tianjiangyi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/tianjiangyi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -284,7 +284,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/yuancunhe/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/yuancunhe/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -295,7 +295,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/zhujingjiu/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/zhujingjiu/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -306,7 +306,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/xuhejingtailang/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/xuhejingtailang/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -317,7 +317,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/gongyongzhao/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/gongyongzhao/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -328,7 +328,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/tengtianjingzi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/tengtianjingzi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -339,7 +339,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/lusenzhuo/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/lusenzhuo/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -350,7 +350,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/xiaozoubachong/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/xiaozoubachong/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -361,7 +361,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/jiangkouxi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/jiangkouxi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -372,7 +372,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/gaoyawennai/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/gaoyawennai/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -383,7 +383,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/xinzichong/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/xinzichong/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -394,7 +394,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/hongshijin/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/hongshijin/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -405,7 +405,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/jiangqirenmei/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/jiangqirenmei/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -416,7 +416,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/anheneimeizi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/anheneimeizi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -427,7 +427,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/seguyaoshen/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/seguyaoshen/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -438,7 +438,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/chituqinghui/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/chituqinghui/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -449,7 +449,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/yiyechengzi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/yiyechengzi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -460,7 +460,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/chuanjiubaohaozi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/chuanjiubaohaozi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -471,7 +471,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/daxingdan/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/daxingdan/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -482,7 +482,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/ertiaoquan/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/ertiaoquan/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -493,7 +493,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/huatianhuang/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/huatianhuang/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -504,7 +504,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/huangchuanqi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/huangchuanqi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -515,7 +515,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/qingshuigulonghua/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/qingshuigulonghua/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -526,7 +526,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/songshixuan/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/songshixuan/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -537,7 +537,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/songshiyou/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/songshiyou/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -548,7 +548,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/fulumeisuizi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/fulumeisuizi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -559,7 +559,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/gongyongxiao/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/gongyongxiao/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -570,7 +570,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/longmenyuantouhua/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/longmenyuantouhua/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -581,7 +581,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/mengnaizhenfan/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/mengnaizhenfan/act_$3.mp3"
 		},
 		{
 			"enable": true,
@@ -592,7 +592,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/tianjiangyi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/tianjiangyi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -603,7 +603,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/yuancunhe/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/yuancunhe/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -614,7 +614,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/zhujingjiu/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/zhujingjiu/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -625,7 +625,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/xuhejingtailang/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/xuhejingtailang/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -636,7 +636,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/gongyongzhao/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/gongyongzhao/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -647,7 +647,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/tengtianjingzi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/tengtianjingzi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -658,7 +658,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/lusenzhuo/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/lusenzhuo/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -669,7 +669,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/xiaozoubachong/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/xiaozoubachong/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -680,7 +680,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/jiangkouxi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/jiangkouxi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -691,7 +691,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/gaoyawennai/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/gaoyawennai/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -702,7 +702,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/xinzichong/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/xinzichong/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -713,7 +713,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/hongshijin/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/hongshijin/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -724,7 +724,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/jiangqirenmei/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/jiangqirenmei/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -735,7 +735,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/anheneimeizi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/anheneimeizi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -746,7 +746,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/seguyaoshen/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/seguyaoshen/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -757,7 +757,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/chituqinghui/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/chituqinghui/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -768,7 +768,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/yiyechengzi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/yiyechengzi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -779,7 +779,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/chuanjiubaohaozi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/chuanjiubaohaozi/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -790,7 +790,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/daxingdan/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/daxingdan/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -801,7 +801,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/ertiaoquan/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/ertiaoquan/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -812,7 +812,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/huatianhuang/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/huatianhuang/act_$3.mp3"
 		},
 		{
 			"enable": false,
@@ -823,7 +823,7 @@
 			"exclude": "",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://cdn.jsdelivr.net/gh/lietxia/lietxia.github.io@latest/sound/huangchuanqi/act_$3.mp3"
+			"to": "https://jimmylovesiren.github.io/majsoul-mod/sound/huangchuanqi/act_$3.mp3"
 		}
 	],
 	"sendHeader": [],
